@@ -3,8 +3,8 @@
 This app let's you drag and drop an image of a car and it will tell you what kind of damage it has.
 The model is trained on third quarter front and rare view hence the picture should capture the third quarter front or rare view of a car. 
 
-![Alternative text for the image](https://github.com/Rakesh-Kumar-Behera/DL-Car_Damage_Detection/blob/main/webSS1.png)
-![Alternative text for the image](https://github.com/Rakesh-Kumar-Behera/DL-Car_Damage_Detection/blob/main/webss2.png)
+![streamlit web page for ffile upload](https://github.com/Rakesh-Kumar-Behera/DL-Car_Damage_Detection/blob/main/webSS1.png)
+![streamlit web page showing the result](https://github.com/Rakesh-Kumar-Behera/DL-Car_Damage_Detection/blob/main/webss3.png)
 
 ### Model Details
 1. Used ResNet50 for transfer learning
